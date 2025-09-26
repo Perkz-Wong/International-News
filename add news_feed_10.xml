@@ -1,91 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>Global News Digest - Top 10</title>
-    <link>https://example.com/news</link>
-    <description>Daily curated international news — top 10 items (Politics, Economy, Tech, Security, Culture)</description>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 25 Sep 2025 12:00:00 GMT</lastBuildDate>
+    <title>International News (10 items)</title>
+    <link>https://perkz-wong.github.io/International-News/</link>
+    <description>Top 10 international news headlines</description>
 
     <item>
-      <title>Israel intensifies strikes on Gaza tunnels — Reuters</title>
-      <link>https://www.reuters.com/world/middle-east/israel-strikes-gaza-tunnels-2025-09-25/</link>
-      <description><![CDATA[Israeli forces launched a series of air and artillery strikes targeting what the military described as Hamas tunnel networks in southern Gaza. Officials said the strikes were conducted in response to recent rocket salvos toward Israeli towns and to disrupt militant logistics and weapons movement. Aid agencies warned that the operations have exacerbated civilian hardship in already-scarce neighborhoods.<br/><strong>Why it matters:</strong> The strikes could further escalate hostilities in Gaza and complicate humanitarian access.]]></description>
-      <pubDate>Thu, 25 Sep 2025 11:50:00 GMT</pubDate>
-      <category>Politics</category>
+      <title>Sample News 1</title>
+      <link>https://www.bbc.com/news/world-1</link>
+      <description>This is a sample news description.</description>
+      <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>UN warns famine spreading in Gaza as aid access remains limited — AFP</title>
-      <link>https://www.afp.com/en/latest/world/un-warns-famine-gaza-aid-2025-09-25/</link>
-      <description><![CDATA[A United Nations assessment has warned that famine conditions are expanding across parts of the Gaza Strip, saying prolonged blockades and disruptions to humanitarian corridors have left large populations without reliable food supplies. Hospitals are reporting rising child malnutrition and clinicians say critical medical supplies are running low. International agencies are pressing for guaranteed, safe passage for convoys to reach hard-hit areas.<br/><strong>Why it matters:</strong> Rising famine increases international pressure for humanitarian corridors and may influence diplomatic responses.]]></description>
-      <pubDate>Thu, 25 Sep 2025 11:40:00 GMT</pubDate>
-      <category>Security</category>
+      <title>Sample News 2</title>
+      <link>https://www.reuters.com/article/world-2</link>
+      <description>This is another sample news description.</description>
+      <pubDate>Fri, 26 Sep 2025 11:00:00 GMT</pubDate>
     </item>
-
-    <item>
-      <title>US condemns rocket attack near Baghdad embassy complex — BBC</title>
-      <link>https://www.bbc.com/news/world-middle-east/US-embassy-baghdad-attack-2025-09-25/</link>
-      <description><![CDATA[US officials condemned a rocket attack that landed near the Baghdad embassy complex, temporarily prompting a partial relocation of diplomatic staff and heightened security measures. No US casualties were reported, but the strike raised fears of renewed tensions between rival militias and foreign missions. Iraqi authorities have launched an investigation amidst calls to better secure installations.<br/><strong>Why it matters:</strong> Attacks near diplomatic sites risk destabilising fragile security arrangements and could draw international responses.]]></description>
-      <pubDate>Thu, 25 Sep 2025 11:30:00 GMT</pubDate>
-      <category>Security</category>
-    </item>
-
-    <item>
-      <title>China and US make progress on tech export controls framework — Reuters</title>
-      <link>https://www.reuters.com/technology/china-us-tech-export-controls-2025-09-25/</link>
-      <description><![CDATA[Senior officials from China and the United States reported progress toward a framework governing export controls for advanced technology, including semiconductors and certain AI-related equipment. While details remain under negotiation, both sides signalled a desire to reduce accidental spillovers into civilian trade while protecting national security interests. Analysts say clarity could ease market jitters in key tech sectors.<br/><strong>Why it matters:</strong> Any agreement could lower trade tensions and reduce uncertainty for global technology supply chains.]]></description>
-      <pubDate>Thu, 25 Sep 2025 11:20:00 GMT</pubDate>
-      <category>Economy</category>
-    </item>
-
-    <item>
-      <title>UK inflation cools more than expected, opening debate on rate cuts — The Guardian</title>
-      <link>https://www.theguardian.com/business/2025/sep/25/uk-inflation-cools-2025/</link>
-      <description><![CDATA[UK consumer price inflation fell unexpectedly in the latest monthly reading, led by milder energy costs and slowing services inflation. Economists said the drop increases the odds that the Bank of England may consider easing monetary policy sooner than previously signalled. Households could see relief in borrowing costs if policymakers move towards rate reductions.<br/><strong>Why it matters:</strong> Lower inflation changes the monetary policy outlook and can affect bond and currency markets globally.]]></description>
-      <pubDate>Thu, 25 Sep 2025 11:10:00 GMT</pubDate>
-      <category>Economy</category>
-    </item>
-
-    <item>
-      <title>EU debates new AI rules to balance safety and innovation — BBC</title>
-      <link>https://www.bbc.com/news/technology-eu-ai-regulation-2025-09-25/</link>
-      <description><![CDATA[European Union policymakers held talks on a proposed regulatory package for artificial intelligence that seeks to balance innovation with safeguards. Proposals include model transparency requirements, risk categorisation, and governance standards for high-risk uses. Industry groups warned of overly prescriptive rules that could hinder competitiveness, while consumer advocates urged stronger protections.<br/><strong>Why it matters:</strong> EU AI rules could set global regulatory benchmarks and affect multinational tech strategy.]]></description>
-      <pubDate>Thu, 25 Sep 2025 11:00:00 GMT</pubDate>
-      <category>Technology</category>
-    </item>
-
-    <item>
-      <title>Swiss bank raided in tax fraud probe; executives detained — Reuters</title>
-      <link>https://www.reuters.com/world/europe/swiss-bank-raid-tax-probe-2025-09-25/</link>
-      <description><![CDATA[Swiss financial authorities raided several offices of a major private bank as part of an ongoing tax-fraud and money-laundering investigation. Multiple senior executives were questioned or detained; prosecutors allege systemic lapses in anti-money-laundering controls. The bank said it was cooperating with investigators.<br/><strong>Why it matters:</strong> The probe could trigger wider scrutiny of Swiss banking practices and impact investor confidence in private banking services.]]></description>
-      <pubDate>Thu, 25 Sep 2025 10:50:00 GMT</pubDate>
-      <category>Economy</category>
-    </item>
-
-    <item>
-      <title>UK team reports advance in quantum error correction — The Independent</title>
-      <link>https://www.independent.co.uk/tech/quantum-error-correction-2025-09-25/</link>
-      <description><![CDATA[Researchers at a UK university described a new error-correction technique for quantum processors that substantially lowers logical error rates in lab tests. The approach, while still at experimental scale, could help make larger, fault-tolerant quantum machines feasible sooner than anticipated. Scientists cautioned that significant engineering remains before commercial applications are viable.<br/><strong>Why it matters:</strong> Improved error correction accelerates the timeline toward practical quantum advantage, with implications for cryptography and materials science.]]></description>
-      <pubDate>Thu, 25 Sep 2025 10:40:00 GMT</pubDate>
-      <category>Technology</category>
-    </item>
-
-    <item>
-      <title>Australia and Pacific islands sign climate resilience pact — Reuters</title>
-      <link>https://www.reuters.com/world/australia-pacific-climate-resilience-2025-09-25/</link>
-      <description><![CDATA[Australia and several Pacific Island nations announced a pact to fund and build climate adaptation infrastructure, including seawalls and updated water systems. The agreement aims to deliver financing and technical support to communities most vulnerable to sea-level rise and extreme weather. Pacific leaders welcomed the concrete commitments.<br/><strong>Why it matters:</strong> The pact addresses immediate adaptation needs and may influence regional geopolitical relationships through aid and partnership.]]></description>
-      <pubDate>Thu, 25 Sep 2025 10:30:00 GMT</pubDate>
-      <category>Politics</category>
-    </item>
-
-    <item>
-      <title>Biden visits Detroit to highlight manufacturing and auto jobs — Fox News</title>
-      <link>https://www.foxnews.com/politics/biden-detroit-manufacturing-2025-09-25/</link>
-      <description><![CDATA[President Biden toured an auto factory in Detroit, outlining federal incentives for domestic manufacturing and investments in electric-vehicle supply chains. He pledged support for workers and highlighted tax credits and grant programs intended to strengthen US competitiveness in clean vehicles. Political opponents criticised the measures as costly.<br/><strong>Why it matters:</strong> The visit underscores US policy emphasis on industrial policy and green-transition employment strategies.]]></description>
-      <pubDate>Thu, 25 Sep 2025 10:20:00 GMT</pubDate>
-      <category>Politics</category>
-    </item>
-
   </channel>
 </rss>
