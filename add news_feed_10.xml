@@ -1,22 +1,83 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
   <channel>
-    <title>International News (10 items)</title>
+    <title>International News - Top 10</title>
     <link>https://perkz-wong.github.io/International-News/</link>
-    <description>Top 10 international news headlines</description>
+    <description>Daily curated top 10 international news headlines</description>
+    <language>en-us</language>
+    <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
 
+    <!-- 中东/以色列新闻 -->
     <item>
-      <title>Sample News 1</title>
-      <link>https://www.bbc.com/news/world-1</link>
-      <description>This is a sample news description.</description>
-      <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
+      <title>Israel and Lebanon tensions rise near border</title>
+      <link>https://www.reuters.com/world/middle-east/israel-lebanon-border-2025</link>
+      <description>Clashes reported along the Israel-Lebanon border as both sides exchange fire.</description>
+      <pubDate>Fri, 26 Sep 2025 08:00:00 GMT</pubDate>
     </item>
 
     <item>
-      <title>Sample News 2</title>
-      <link>https://www.reuters.com/article/world-2</link>
-      <description>This is another sample news description.</description>
-      <pubDate>Fri, 26 Sep 2025 11:00:00 GMT</pubDate>
+      <title>US pushes for ceasefire in Gaza conflict</title>
+      <link>https://www.bbc.com/news/world-middle-east-2025</link>
+      <description>Washington calls for immediate halt to hostilities as Gaza faces humanitarian crisis.</description>
+      <pubDate>Fri, 26 Sep 2025 07:30:00 GMT</pubDate>
     </item>
+
+    <!-- 其他国际新闻 -->
+    <item>
+      <title>UN warns of climate tipping points</title>
+      <link>https://www.theguardian.com/environment/2025/sep/26/climate-tipping-points</link>
+      <description>UN scientists warn the world is approaching irreversible climate tipping points.</description>
+      <pubDate>Fri, 26 Sep 2025 06:45:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>China and US hold high-level trade talks</title>
+      <link>https://www.reuters.com/world/china-us-trade-2025</link>
+      <description>Negotiators from China and the US met in Beijing to ease trade tensions.</description>
+      <pubDate>Fri, 26 Sep 2025 05:20:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Russia accused of new cyberattacks on Europe</title>
+      <link>https://www.bbc.com/news/world-europe-2025</link>
+      <description>Several European governments report large-scale cyber intrusions traced to Russian actors.</description>
+      <pubDate>Fri, 26 Sep 2025 04:50:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>India lands new spacecraft on the Moon</title>
+      <link>https://www.independent.co.uk/world/india-moon-landing-2025</link>
+      <description>India’s space agency successfully lands a rover on the Moon’s south pole.</description>
+      <pubDate>Fri, 26 Sep 2025 04:10:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>French farmers protest in Paris</title>
+      <link>https://www.france24.com/en/europe/2025/09/26/french-farmers-protest</link>
+      <description>Farmers block roads in Paris demanding subsidies and relief from fuel prices.</description>
+      <pubDate>Fri, 26 Sep 2025 03:40:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>UK government faces crisis over budget cuts</title>
+      <link>https://www.theguardian.com/politics/2025/sep/26/uk-budget-crisis</link>
+      <description>The Prime Minister faces backlash after deep spending cuts spark nationwide protests.</description>
+      <pubDate>Fri, 26 Sep 2025 03:00:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Hurricane threatens Florida coast</title>
+      <link>https://www.foxnews.com/us/hurricane-florida-2025</link>
+      <description>A powerful hurricane is approaching Florida with winds over 200 km/h.</description>
+      <pubDate>Fri, 26 Sep 2025 02:30:00 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Germany unveils renewable energy plan</title>
+      <link>https://www.dw.com/en/germany-renewable-energy-2025</link>
+      <description>Germany announces major investment in wind and solar energy to cut carbon emissions.</description>
+      <pubDate>Fri, 26 Sep 2025 02:00:00 GMT</pubDate>
+    </item>
+
   </channel>
 </rss>
