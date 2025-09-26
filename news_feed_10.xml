@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>International News - Top 10</title>
+  <link>https://perkz-wong.github.io/International-News/</link>
+  <description>Daily Top 10 International News (Reuters, AFP, BBC, The Guardian, Fox News, Independent)</description>
+  <language>en-us</language>
+
+  <item>
+    <title>Israel and Hezbollah exchange fire along border</title>
+    <link>https://www.reuters.com/</link>
+    <description>Israel and Hezbollah militants engaged in cross-border strikes, raising fears of wider escalation in the Middle East conflict.</description>
+    <pubDate>Fri, 26 Sep 2025 10:00:00 GMT</pubDate>
+    <source url="https://www.reuters.com">Reuters</source>
+  </item>
+
+  <item>
+    <title>Ceasefire talks continue in Gaza amid humanitarian crisis</title>
+    <link>https://www.bbc.com/</link>
+    <description>Egypt and Qatar are mediating new ceasefire talks as Gaza faces severe shortages of food, water, and medical supplies.</description>
+    <pubDate>Fri, 26 Sep 2025 10:05:00 GMT</pubDate>
+    <source url="https://www.bbc.com">BBC</source>
+  </item>
+
+  <item>
+    <title>UN warns of escalating tensions in South China Sea</title>
+    <link>https://www.theguardian.com/</link>
+    <description>The UN called for restraint after new naval confrontations between China and the Philippines in disputed waters.</description>
+    <pubDate>Fri, 26 Sep 2025 10:10:00 GMT</pubDate>
+    <source url="https://www.theguardian.com">The Guardian</source>
+  </item>
+
+  <item>
+    <title>Global markets slide as US Federal Reserve signals prolonged high rates</title>
+    <link>https://www.ft.com/</link>
+    <description>Stocks fell worldwide after the Federal Reserve hinted interest rates will remain high well into 2026.</description>
+    <pubDate>Fri, 26 Sep 2025 10:15:00 GMT</pubDate>
+    <source url="https://www.ft.com">Financial Times</source>
+  </item>
+
+  <item>
+    <title>Russia conducts large-scale military drills with Belarus</title>
+    <link>https://www.apnews.com/</link>
+    <description>Russia and Belarus launched joint military exercises, raising concerns among NATO allies in Eastern Europe.</description>
+    <pubDate>Fri, 26 Sep 2025 10:20:00 GMT</pubDate>
+    <source url="https://www.apnews.com">Associated Press</source>
+  </item>
+
+  <item>
+    <title>India successfully tests reusable spaceplane technology</title>
+    <link>https://www.independent.co.uk/</link>
+    <description>India’s space agency completed a successful trial of a reusable spaceplane, marking a major step in space innovation.</description>
+    <pubDate>Fri, 26 Sep 2025 10:25:00 GMT</pubDate>
+    <source url="https://www.independent.co.uk">The Independent</source>
+  </item>
+
+  <item>
+    <title>WHO raises alarm on new pandemic preparedness gaps</title>
+    <link>https://www.bbc.com/</link>
+    <description>The World Health Organization urged countries to close gaps in pandemic preparedness after recent virus outbreaks.</description>
+    <pubDate>Fri, 26 Sep 2025 10:30:00 GMT</pubDate>
+    <source url="https://www.bbc.com">BBC</source>
+  </item>
+
+  <item>
+    <title>US Congress struggles to avoid government shutdown</title>
+    <link>https://www.foxnews.com/</link>
+    <description>US lawmakers face a looming deadline to pass a spending bill and avoid a federal government shutdown.</description>
+    <pubDate>Fri, 26 Sep 2025 10:35:00 GMT</pubDate>
+    <source url="https://www.foxnews.com">Fox News</source>
+  </item>
+
+  <item>
+    <title>Climate summit in Paris ends with renewed commitments</title>
+    <link>https://www.theguardian.com/</link>
+    <description>World leaders pledged stronger action on carbon reduction at the close of the Paris Climate Summit.</description>
+    <pubDate>Fri, 26 Sep 2025 10:40:00 GMT</pubDate>
+    <source url="https://www.theguardian.com">The Guardian</source>
+  </item>
+
+  <item>
+    <title>Japan and South Korea deepen defense cooperation</title>
+    <link>https://www.reuters.com/</link>
+    <description>Japan and South Korea agreed on new defense cooperation measures amid North Korea’s continued missile launches.</description>
+    <pubDate>Fri, 26 Sep 2025 10:45:00 GMT</pubDate>
+    <source url="https://www.reuters.com">Reuters</source>
+  </item>
+
+</channel>
+</rss>
